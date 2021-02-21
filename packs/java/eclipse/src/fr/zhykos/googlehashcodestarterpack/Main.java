@@ -17,4 +17,5 @@ public final class Main {
 		final List<FileLine> outputLines = HashCode.resolve(lines, Problem.getProblem(filename));
 		Helpers.writeLines(outputLines, filename);
 	}
+
 }

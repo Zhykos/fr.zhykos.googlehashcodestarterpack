@@ -25,10 +25,14 @@ public final class Helpers {
 	}
 
 	public static void writeLines(final List<FileLine> outputLines, final String filename) throws IOException {
-		final List<String> linesStr = outputLines.stream().map(
+		final List<String> linesStr = linesToStringList(outputLines);
+		Files.write(new File("resources/outputs/" + filename).toPath(), linesStr); //$NON-NLS-1$
+	}
+
+	public static List<String> linesToStringList(final List<FileLine> outputLines) {
+		return outputLines.stream().map(
 				line -> line.getColumns().stream().map(integer -> integer.toString()).collect(Collectors.joining(" "))) //$NON-NLS-1$
 				.collect(Collectors.toList());
-		Files.write(new File("resources/outputs/" + filename).toPath(), linesStr); //$NON-NLS-1$
 	}
 
 }
