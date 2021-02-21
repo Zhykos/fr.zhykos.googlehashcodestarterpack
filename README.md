@@ -18,9 +18,9 @@
   <p align="center">
     <i>Don't develop same things each year</i>
     <br />
-    <img src="doc/images/uk.png" alt="English" width="16" /> <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/blob/latest/README.md"><strong>English documentation »</strong></a>
+    <img src="doc/images/uk.png" alt="English" width="16" /> <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/blob/main/README.md"><strong>English documentation »</strong></a>
     <br />
-    <img src="doc/images/france.png" alt="France" width="16" /> <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/blob/latest/doc/README.french.md"><strong>Documentation en français »</strong></a>
+    <img src="doc/images/france.png" alt="France" width="16" /> <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/blob/main/doc/README.french.md"><strong>Documentation en français »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/issues">Report Bug</a>
