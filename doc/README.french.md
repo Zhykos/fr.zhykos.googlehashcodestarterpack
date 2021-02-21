@@ -100,7 +100,8 @@ Lien du projet : [https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack]
 <!-- ACKNOWLEDGEMENTS -->
 ## Remerciements
 
-* Google ™ bien entendu ! 
+* Google ™
+* Eclipse ™
 * *Template* du Readme : https://github.com/othneildrew/Best-README-Template
 * Icônes des pays par Wikipédia : https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
 

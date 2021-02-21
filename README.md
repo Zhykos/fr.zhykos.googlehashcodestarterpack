@@ -103,7 +103,8 @@ Project link: [https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack](ht
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Google ™ of course!
+* Google ™
+* Eclipse ™
 * Readme template: https://github.com/othneildrew/Best-README-Template
 * Country icons by Wikipédia: https://en.wikipedia.org/wiki/Main_Page
 
