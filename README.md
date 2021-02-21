@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack">
-    <img src="doc/images/logo.png" alt="Logo" width="80" height="80" />
+    <img src="doc/images/main-icon.png" alt="Logo" width="80" height="80" />
   </a>
 
   <h3 align="center">Google Hash Code Starter Pack</h3>
@@ -107,6 +107,7 @@ Project link: [https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack](ht
 * Eclipse ™
 * Readme template: https://github.com/othneildrew/Best-README-Template
 * Country icons by Wikipédia: https://en.wikipedia.org/wiki/Main_Page
+* Main icon template by constantino co: https://freeicons.io/profile/3156
 
 ## FAQ
 
