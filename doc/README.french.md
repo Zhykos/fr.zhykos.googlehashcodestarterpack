@@ -16,7 +16,11 @@
   <h3 align="center">Google Hash Code Starter Pack</h3>
 
   <p align="center">
-    <i>Arrêtez de développer les mêmes choses chaque année</i>
+
+   <a href="https://codingcompetitions.withgoogle.com/hashcode">Site de Google Hash Code</a>
+   <br />
+   <br />
+   <i>Arrêtez de développer les mêmes choses chaque année</i>
     <br />
     <img src="../doc/images/france.png" alt="France" width="16" /> <a href="https://github.com/Zhykos/fr.zhykos.googlehashcodestarterpack/blob/main/doc/README.french.md"><strong>Documentation en français »</strong></a>
     <br />
