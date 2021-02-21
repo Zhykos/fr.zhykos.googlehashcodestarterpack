@@ -77,7 +77,7 @@ Vérifiez la page [open issues](https://github.com/Zhykos/fr.zhykos.videocustomf
 <!-- CONTRIBUTING -->
 ## Contribuer au projet
 
-Vos contributions font que la communauté *open source* est un endroit incroyable pour apprendre (je ne suis moi-même pas du tout développeur JS ou Node), créer et partager. Toute contribution sera grandement appréciée, d'autant plus que je n'ai que très peu de temps à m'y consacrer.
+Vos contributions font que la communauté *open source* est un endroit incroyable pour apprendre, créer et partager. Toute contribution sera grandement appréciée, d'autant plus que je n'ai que très peu de temps à m'y consacrer.
 
 1. *Forkez* le projet
 2. Créez une branche pour la correction ou fonctionnalité (`git checkout -b feature/AmazingFeature`)
